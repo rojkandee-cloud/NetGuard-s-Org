@@ -1,0 +1,5 @@
+{
+  "name": "NetGuard AI Sentinel 3101-2569 Rev.1",
+  "description": "A comprehensive network monitoring dashboard simulating NGFW capabilities, Ad-blocking, and Facebook Login Access Control with AI threat intelligence.",
+  "requestFramePermissions": []
+}
